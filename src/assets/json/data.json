@@ -1,0 +1,19 @@
+{
+  "date": "2025-12-13",
+  "hour": "15:30",
+  "song": {
+    "name": "Vals de Primavera",
+    "author": "Chopin",
+    "url": "/assets/audios/vals-de-primavera.mp3"
+  },
+  "videoUrl": "/assets/videos/video.mp4",
+  "maps": {
+    "google": "https://maps.app.goo.gl/LYwPvggttqXJvAgY6",
+    "waze": "https://ul.waze.com/ul?venue_id=177209484.1772356981.682048&overview=yes&utm_campaign=default&utm_source=waze_website&utm_medium=lm_share_location"
+  },
+  "address": {
+    "firstLine": "Santa Ana",
+    "secondLine": "Salón Tecana"
+  },
+  "calendarUrl": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Boda+Ingrid+y+Mauricio&dates=20251129T170000/20251130T000000&details=¡Vamos+a+celebrar+la+boda+de+Ingrid+y+Mauricio!+Debo+empezar+a+alistar+mi+outfit&location=Hacienda+San+Antonio,+X6RF%2BRP7,+Atiquizaya,+El+Salvador&reminder=1440"
+}

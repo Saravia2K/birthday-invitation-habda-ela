@@ -1,0 +1,17 @@
+@use "@/app/breakpoints.scss" as bp;
+
+.floral-arrangements-container {
+  position: relative;
+
+  .flower {
+    position: absolute;
+    width: 40%;
+    overflow: hidden;
+    z-index: 1000;
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+  }
+}
