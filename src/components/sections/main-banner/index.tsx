@@ -5,6 +5,7 @@ import FloralArrangements from "@/components/common/floral-arrangements";
 
 import styles from "./main-banner.module.scss";
 import banner from "@/assets/images/photos/banner-img.jpeg";
+import clsx from "clsx";
 
 export default function MainBanner() {
   return (
@@ -20,8 +21,10 @@ export default function MainBanner() {
         ]}
       >
         <h1 className={styles.names}>
-          <span>Habda Ela</span>
-          <span className={styles.ampersand}>Rodriguez de Romero</span>
+          <span className={styles["gradient-letter"]}>Habda Ela</span>
+          <span className={clsx(styles.ampersand, styles["gradient-letter"])}>
+            Rodriguez de Romero
+          </span>
         </h1>
       </FloralArrangements>
     </div>

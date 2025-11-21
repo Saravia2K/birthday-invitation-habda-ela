@@ -9,14 +9,12 @@ import "./global.scss";
 import banner from "@/assets/images/photos/banner-img.jpeg";
 
 export const metadata: Metadata = {
-  title: "Nuestra boda | Ingrid y Mauricio",
-  description:
-    "Con el corazón lleno de gratitud por todo lo compartido y el amor que nos une, queremos celebrar este momento especial contigo. Tu presencia lo hará aún más feliz.",
+  title: "Cumpleaños de Ela Rodriguez",
+  description: "Te invitamos a celebrar la vida de nuestra amada madre",
   openGraph: {
-    title: "Nuestra boda | Ingrid y Mauricio",
+    title: "Cumpleaños de Ela Rodriguez",
     images: [banner.src],
-    description:
-      "Con el corazón lleno de gratitud por todo lo compartido y el amor que nos une, queremos celebrar este momento especial contigo. Tu presencia lo hará aún más feliz.",
+    description: "Te invitamos a celebrar la vida de nuestra amada madre",
   },
 };
 

@@ -47,7 +47,7 @@
   {
     "name": "Samuel Novoa",
     "slug": "samuel-novoa",
-    "companions": 0
+    "companions": 2
   },
   {
     "name": "Renato Molina",
@@ -117,7 +117,7 @@
   {
     "name": "Edelmira Cardona",
     "slug": "edelmira-cardona",
-    "companions": 1
+    "companions": 2
   },
   {
     "name": "Tonita de Silva",
@@ -153,5 +153,10 @@
     "name": "Ana Gloria Rodriguez",
     "slug": "ana-gloria-rodriguez",
     "companions": 1
+  },
+  {
+    "name": "Nancy y Guillermo",
+    "slug": "nancy-y-guillermo",
+    "companions": 0
   }
 ]

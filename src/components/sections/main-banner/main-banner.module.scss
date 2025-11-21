@@ -38,6 +38,12 @@
       margin-left: var(--ampersand-margin-left);
     }
 
+    .gradient-letter {
+      background-image: linear-gradient(180deg, #441b28 0%, #7f001f 100%);
+      color: transparent;
+      background-clip: text;
+    }
+
     span {
       display: inline-block;
     }
