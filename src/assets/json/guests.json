@@ -158,5 +158,35 @@
     "name": "Nancy y Guillermo",
     "slug": "nancy-y-guillermo",
     "companions": 0
+  },
+  {
+    "name": "Rubía de Vasquez",
+    "slug": "rubia-de-vasquez",
+    "companions": 1
+  },
+  {
+    "name": "Nancy Maza",
+    "slug": "nancy-maza",
+    "companions": 1
+  },
+  {
+    "name": "Karina y Nathan Blue",
+    "slug": "karina-y-nathan-blue",
+    "companions": 0
+  },
+  {
+    "name": "Eduardo Rodriguez",
+    "slug": "eduardo-rodriguez",
+    "companions": 0
+  },
+  {
+    "name": "Daniel Rodríguez",
+    "slug": "daniel-rodriguez",
+    "companions": 0
+  },
+  {
+    "name": "Noe Rodriguez",
+    "slug": "noe-rodriguez",
+    "companions": 0
   }
 ]
