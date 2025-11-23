@@ -188,5 +188,20 @@
     "name": "Noe Rodriguez",
     "slug": "noe-rodriguez",
     "companions": 0
+  },
+  {
+    "name": "Ethelevina Cardona",
+    "slug": "ethelevina-cardona",
+    "companions": 1
+  },
+  {
+    "name": "Xenia Rodríguez",
+    "slug": "xenia-rodriguez",
+    "companions": 0
+  },
+  {
+    "name": "Roberto Martínez",
+    "slug": "roberto-martinez",
+    "companions": 3
   }
 ]
